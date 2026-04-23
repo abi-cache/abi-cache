@@ -7,7 +7,7 @@ I am a first-year Bachelor of Science in Information Systems student. I’m curr
 
 ## 🎯 Objective
 
-My background in IT — spanning network management, system troubleshooting, and infrastructure support — has given me a deep appreciation for how organizations operate and where they are most vulnerable. I am now focused on transitioning into cybersecurity, specifically aiming to join a **Security Operations Center (SOC) as a Tier 1 Analyst**, where I can apply my technical skills to monitor, detect, and respond to threats in real time.
+As a 1st-year BSIS student, I am eager to move beyond classroom learning and gain real-world, hands-on experience in cybersecurity. I am highly motivated to explore environments where I can observe and understand real threats, learn how professionals respond to incidents, and see how security works in practice.
 
 ---
 
