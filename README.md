@@ -1,5 +1,5 @@
 # Hello, I'm Kiel Abien David 👋
-<a href="www.linkedin.com/in/kiel-abien-david"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kiel-abien-david-1b8393385/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an IT professional with hands-on experience in systems administration and network infrastructure, now channeling that technical foundation into a dedicated pursuit of cybersecurity. I thrive on solving complex problems, and I'm driven by a strong commitment to protecting data, people, and the organizations that depend on both.
 
