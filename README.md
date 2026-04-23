@@ -16,7 +16,7 @@ I am eager to move beyond classroom learning and gain real-world, hands-on exper
 ---
 
 ###  Willingness to Learn and Adapt
-> As a 1st-year BSIS student, I am highly motivated to continuously learn new concepts and adapt to emerging technologies, especially in cybersecurity.
+> I am highly motivated to continuously learn new concepts and adapt to emerging technologies, especially in cybersecurity.
 
 ---
 
