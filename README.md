@@ -52,12 +52,3 @@ Phishda is a security awareness training app that simulates a fake Google sign-u
 
 ---
 
-## 📄 Professional Statement
-
-*"I am an IT professional with hands-on experience in systems and network infrastructure, transitioning into cybersecurity with a strong focus on threat detection and incident response. I am committed to upholding data privacy and integrity, and I bring a problem-solving mindset that allows me to analyze complex environments and apply security controls that protect both people and organizations. Through the Google Cybersecurity Professional Certificate and continuous hands-on practice, I am building the specialized skills needed to contribute effectively as an entry-level SOC analyst."*
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS" />
-</div>
