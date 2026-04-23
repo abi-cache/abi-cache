@@ -13,12 +13,32 @@ I am eager to move beyond classroom learning and gain real-world, hands-on exper
 
 ## 💪 Strengths
 
-1. Willingness to Learn and Adapt
-As a 1st-year BSIS student, I am highly motivated to continuously learn new concepts and adapt to emerging technologies, especially in cybersecurity.
-2. Curiosity and Initiative
-I actively seek out new knowledge beyond what is taught in class, especially in cybersecurity topics, and take initiative to explore tools and real-world scenarios.
-3. Persistence and Patience
-I stay committed to solving problems even when they are challenging, understanding that learning technical skills takes time and effort.
+<p align="center">
+  <img src="https://img.shields.io/badge/Mindset-Growth-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-darkgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-Beginner-orange?style=for-the-badge" />
+</p>
+
+---
+
+### 🧠 Willingness to Learn and Adapt
+> As a 1st-year BSIS student, I am highly motivated to continuously learn new concepts and adapt to emerging technologies, especially in cybersecurity.
+
+---
+
+### 🔍 Curiosity and Initiative
+> I actively seek out new knowledge beyond what is taught in class, especially in cybersecurity topics, and take initiative to explore tools and real-world scenarios.
+
+---
+
+### 🛠️ Persistence and Patience
+> I stay committed to solving problems even when they are challenging, understanding that learning technical skills takes time and effort.
+
+---
+
+<p align="center">
+  <i>🚀 Continuously growing and building real-world skills</i>
+</p>
 
 ---
 
