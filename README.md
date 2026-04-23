@@ -11,17 +11,14 @@ I am eager to move beyond classroom learning and gain real-world, hands-on exper
 
 ---
 
-## 🧰 Skills
+## 💪 Strengths
 
-| Skill | Associated Project |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis | <a href="https://github.com/your-username/detection-lab">Detection Lab</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/your-username/detection-lab">Detection Lab</a> |
-| Security Automation with Shuffle SOAR | <a href="https://github.com/your-username/soc-automation-lab">SOC Automation Lab</a> |
-| Incident Response Planning and Execution | <a href="https://github.com/your-username/soc-automation-lab">SOC Automation Lab</a> |
-| Case Management with TheHive | <a href="https://github.com/your-username/soc-automation-lab">SOC Automation Lab</a> |
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/your-username/soc-automation-lab">SOC Automation Lab</a> |
-| Professional Security Documentation | <a href="https://github.com/your-username/google-cybersecurity-portfolio">Google Cybersecurity Portfolio</a> |
+1. Willingness to Learn and Adapt
+As a 1st-year BSIS student, I am highly motivated to continuously learn new concepts and adapt to emerging technologies, especially in cybersecurity.
+2. Curiosity and Initiative
+I actively seek out new knowledge beyond what is taught in class, especially in cybersecurity topics, and take initiative to explore tools and real-world scenarios.
+3. Persistence and Patience
+I stay committed to solving problems even when they are challenging, understanding that learning technical skills takes time and effort.
 
 ---
 
