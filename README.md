@@ -1,7 +1,7 @@
 # Hello, I'm Kiel Abien David 👋
 <a href="https://www.linkedin.com/in/kiel-abien-david-1b8393385/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an IT professional with hands-on experience in systems administration and network infrastructure, now channeling that technical foundation into a dedicated pursuit of cybersecurity. I thrive on solving complex problems, and I'm driven by a strong commitment to protecting data, people, and the organizations that depend on both.
+I am a first-year Bachelor of Science in Information Systems student. I’m currently studying cybersecurity to expand my skills and knowledge. As a student, I’m still learning and continuously developing my technical abilities to build a strong foundation for a future career in the tech industry.
 
 ---
 
