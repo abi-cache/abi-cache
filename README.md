@@ -7,7 +7,7 @@ I am a first-year Bachelor of Science in Information Systems student. I’m curr
 
 ## 🎯 Objective
 
-As a 1st-year BSIS student, I am eager to move beyond classroom learning and gain real-world, hands-on experience in cybersecurity. I am highly motivated to explore environments where I can observe and understand real threats, learn how professionals respond to incidents, and see how security works in practice.
+I am eager to move beyond classroom learning and gain real-world, hands-on experience in cybersecurity. I am highly motivated to explore environments where I can observe and understand real threats, learn how professionals respond to incidents, and see how security works in practice.
 
 ---
 
