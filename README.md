@@ -42,20 +42,13 @@ I am eager to move beyond classroom learning and gain real-world, hands-on exper
   <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate_(In_Progress)-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
-> 🔄 *Remove any certifications you don't have yet. Add the ones you've actually earned.*
-
 ---
 
 ## 📂 Projects
 
-### 🔬 [Detection Lab](https://github.com/your-username/detection-lab)
-Built a home lab environment to simulate enterprise-level SIEM monitoring. Configured log ingestion from multiple sources, created custom detection rules, and analyzed real attack patterns using Splunk and Elastic. Practiced identifying indicators of compromise (IOCs) and generating incident reports.
+### 🔬 [Phishda](https://github.com/abi-cache/phishda.git)
 
-### ⚙️ [SOC Automation Lab](https://github.com/your-username/soc-automation-lab)
-Designed and deployed a security automation workflow using Shuffle SOAR, TheHive for case management, and Wazuh for threat detection. Automated alert triage and incident ticket creation to simulate Tier 1 SOC analyst workflows, reducing manual response time significantly.
-
-### 🛡️ [Google Cybersecurity Portfolio](https://github.com/your-username/google-cybersecurity-portfolio)
-Ongoing documentation of all portfolio activities completed throughout the Google Cybersecurity Professional Certificate on Coursera. Includes professional statement, security audits, network analysis reports, Linux/SQL labs, Python automation scripts, and incident handler journals.
+Phishda is a security awareness training app that simulates a fake Google sign-up page and then redirects users to an educational warning page. It includes an admin dashboard that tracks opens, submissions, and reports. I designed and developed the phishing simulation workflow, implemented tracking mechanisms to monitor user interactions, and built the dashboard to analyze results and user behavior. This project was created to demonstrate how phishing attacks work in real-world scenarios and to help users recognize and avoid them through interactive learning.
 
 ---
 
