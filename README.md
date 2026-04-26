@@ -46,6 +46,13 @@ I am eager to move beyond classroom learning and gain real-world, hands-on exper
 
 ## 📂 Projects
 
+---
+
+### 📄 [Google-Cybersecurity-Certificate-Portfolio] (https://github.com/abi-cache/Google-Cybersecurity-Certificate-Portfolio.git)
+A complete collection of hands-on portfolio activities completed throughout the Google Cybersecurity Professional Certificate (Coursera). Covers 9 courses and includes a professional statement, internal security audit (NIST CSF, PCI DSS, GDPR compliance), network traffic analysis using Wireshark and tcpdump, Linux file permission management, SQL-based security investigations, vulnerability assessments, incident response documentation, Python automation scripts for log parsing and allow list management, and SIEM query exercises using Chronicle and Splunk
+
+---
+
 ### 🔬 [Phishda](https://github.com/abi-cache/phishda.git)
 
 Phishda is a security awareness training app that simulates a fake Google sign-up page and then redirects users to an educational warning page. It includes an admin dashboard that tracks opens, submissions, and reports. I designed and developed the phishing simulation workflow, implemented tracking mechanisms to monitor user interactions, and built the dashboard to analyze results and user behavior. This project was created to demonstrate how phishing attacks work in real-world scenarios and to help users recognize and avoid them through interactive learning.
