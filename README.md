@@ -48,7 +48,7 @@ I am eager to move beyond classroom learning and gain real-world, hands-on exper
 
 ---
 
-### 📄 [Google-Cybersecurity-Certificate-Portfolio] (https://github.com/abi-cache/Google-Cybersecurity-Certificate-Portfolio.git)
+### 📄 [Google-Cybersecurity-Certificate-Portfolio](https://github.com/abi-cache/Google-Cybersecurity-Certificate-Portfolio.git)
 A complete collection of hands-on portfolio activities completed throughout the Google Cybersecurity Professional Certificate (Coursera). Covers 9 courses and includes a professional statement, internal security audit (NIST CSF, PCI DSS, GDPR compliance), network traffic analysis using Wireshark and tcpdump, Linux file permission management, SQL-based security investigations, vulnerability assessments, incident response documentation, Python automation scripts for log parsing and allow list management, and SIEM query exercises using Chronicle and Splunk
 
 ---
